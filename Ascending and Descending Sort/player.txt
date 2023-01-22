@@ -1,0 +1,8 @@
+1. a dengan jarak lari = 1 meter
+2. b dengan jarak lari = 2 meter
+3. c dengan jarak lari = 3 meter
+4. d dengan jarak lari = 4 meter
+5. e dengan jarak lari = 5 meter
+6. f dengan jarak lari = 6 meter
+7. g dengan jarak lari = 7 meter
+8. h dengan jarak lari = 8 meter

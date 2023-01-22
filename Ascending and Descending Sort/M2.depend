@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1640503049 source:d:\cpp programming\m2\m2\main.cpp
+	<iostream>
+
+1648128292 source:d:\cpp programming\m2-2\m2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1650444440 source:d:\cpp programming\praktikum its\tree\m2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1663287502 source:d:\cpp programming\praktikum its\m3\m2\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+
+1663331544 source:d:\cpp programming\praktikum its\m2\m2\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+
+1663331634 source:d:\cpp project\praktikum its\m2\m2\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+
